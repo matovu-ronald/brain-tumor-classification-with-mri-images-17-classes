@@ -6,3 +6,4 @@ ResNet50/.index
 ResNet50/checkpoint
 ImageClassificationFromScratch/image_classification_from_scratch_model_saved_at_14_epoch.keras
 *.keras
+plots/.DS_Store
