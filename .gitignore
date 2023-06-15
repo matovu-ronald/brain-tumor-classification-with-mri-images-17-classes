@@ -1,3 +1,8 @@
 .idea
 *.xml
 /dataset
+ResNet50/.data-00000-of-00001
+ResNet50/.index
+ResNet50/checkpoint
+ImageClassificationFromScratch/image_classification_from_scratch_model_saved_at_14_epoch.keras
+*.keras
